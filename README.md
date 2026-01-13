@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar S</h1>
 <h3 align="center">Student</h3>
 
-- 👨‍🎓 Java Full Stack Developer
+Java Full Stack Developer
+I'm interested in developing applications and enjoy solving problems
+You can reach me by **praveenroman100@gmail.com**
 
-- You can reach me by **praveenroman100@gmail.com**
-
-- I'm interested in developing applications and enjoy solving problems
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
