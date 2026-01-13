@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar S</h1>
 <h3 align="center">Student</h3>
 
-- 👨‍🎓 I’m currently studying at **St.Joseph's College of Engineering**
-
-- 🌱 I’m currently learning **Java,Python**
+- 👨‍🎓 Java Full Stack Developer
 
 - You can reach me by **praveenroman100@gmail.com**
 
-- I'm interested in **Coding**
+- I'm interested in developing applications and enjoy solving problems
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
