@@ -2,7 +2,9 @@
 <h3 align="center">Student</h3>
 
 Java Full Stack Developer
+
 I'm interested in developing applications and enjoy solving problems
+
 You can reach me by **praveenroman100@gmail.com**
 
 
